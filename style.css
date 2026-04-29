@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background: black;
+    color: white;
+    font-family: Arial;
+}
+
+#array {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 300px;
+}
+
+.bar {
+    width: 20px;
+    margin: 3px;
+    background: cyan;
+}
+
+button, input {
+    margin: 5px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+
+#explanation {
+    margin-top: 20px;
+    color: lightgreen;
+    font-size: 18px;
+}
